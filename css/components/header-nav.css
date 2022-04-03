@@ -1,0 +1,11 @@
+.header-nav a{
+    text-decoration: none;
+    font-family: 'Lekton', monospace;
+    font-size: 20px;
+    color: #E5D7EC;
+    margin-left: 30px;
+}
+
+.header-nav a::before{
+    content: '>';
+}

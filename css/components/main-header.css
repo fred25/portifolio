@@ -1,0 +1,6 @@
+.main-header{
+    position: sticky;
+    display: flex;
+    margin: 68px 86px;
+    justify-content: space-around;
+}
