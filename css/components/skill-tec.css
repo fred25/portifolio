@@ -1,0 +1,22 @@
+.skill-tec{
+    display: flex;
+    align-items: center;
+    margin-top: 38px;
+}
+
+.skill-tec img{
+    height: 50px;
+    margin-right: 20px;
+}
+
+.skill-tec img.java, .skill-tec img.illustrator, .skill-tec img.html{
+    filter: drop-shadow(0px 0px 10px #FF9900);
+}
+
+.skill-tec img.css, .skill-tec img.photoshop{
+    filter: drop-shadow(0 0 10px #00C2FF);
+}
+
+.skill-tec img.python{
+    filter: drop-shadow(5px 5px 5px #ffd900) drop-shadow(-5px -5px 5px #3c7dff);
+}

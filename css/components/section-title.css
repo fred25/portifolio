@@ -4,10 +4,6 @@
     color: #68FE9B;
     text-shadow: 0px 0px 10px #68FE9B;
     margin-left: 85px;
-    margin-top: 90px;
+    padding-top: 90px;
     padding-bottom: 53px;
-}
-
-.section-title img{
-    border-radius: 20px;
 }

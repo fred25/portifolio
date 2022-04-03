@@ -1,0 +1,35 @@
+.progress-bar{
+    width: 103px;
+    border: none;
+    height: 6px;
+    border-radius: 6px;
+}
+
+.progress-bar::-moz-progress-bar,
+.progress-bar::-webkit-progress-bar{
+    border-radius: 6px;
+}
+
+.progress-bar.java::-moz-progress-bar,
+.progress-bar.java::-webkit-progress-bar,
+.progress-bar.illustrator::-moz-progress-bar,
+.progress-bar.illustrator::-webkit-progress-bar,
+.progress-bar.html::-moz-progress-bar,
+.progress-bar.html::-webkit-progress-bar{
+background-color: #FF9900;
+box-shadow: 0 0 15px #FF9900;
+}
+
+.progress-bar.css::-moz-progress-bar,
+.progress-bar.css::-webkit-progress-bar,
+.progress-bar.photoshop::-moz-progress-bar,
+.progress-bar.photoshop::-webkit-progress-bar{
+    background-color: #00C2FF;
+    box-shadow: 0 0 15px #00C2FF;
+}
+
+.progress-bar.python::-moz-progress-bar,
+.progress-bar.python::-webkit-progress-bar{
+    background-color: #FFE600;
+    box-shadow: 0 0 15px #FFE600;
+}
