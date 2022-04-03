@@ -1,0 +1,13 @@
+.main-text{
+    color: #E5D7EC;
+    font-family: 'Lekton', monospace;
+    font-weight: 400;
+    line-height: 134%;
+    font-size: 26px;
+    letter-spacing: 0.1em;
+}
+
+.main-text.text-strong{
+    font-weight: 700;
+    font-size: 35px;
+}

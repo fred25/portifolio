@@ -1,0 +1,11 @@
+.about-article{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 250px;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+
+.about-article img{
+    border-radius: 20px;
+}
