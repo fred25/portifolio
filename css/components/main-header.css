@@ -1,6 +1,10 @@
 .main-header{
-    position: sticky;
+    position: fixed;
+    width: 100%;
+}
+
+.header-wrapper{
     display: flex;
-    margin: 68px 86px;
+    margin: 68px 86px 0 86px;
     justify-content: space-around;
 }

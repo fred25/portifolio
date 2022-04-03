@@ -1,0 +1,16 @@
+.main-subtitle{
+    font-family: 'Lekton', monospace;
+    font-size: 35px;
+    font-style: italic;
+    color: #FF879A;
+    padding-left: 44px;
+    padding-bottom: 44px;
+}
+
+.main-subtitle::before{
+    content: '<';
+}
+
+.main-subtitle::after{
+    content: '>';
+}
