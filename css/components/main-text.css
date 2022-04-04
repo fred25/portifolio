@@ -11,3 +11,24 @@
     font-weight: 700;
     font-size: 35px;
 }
+
+@media only screen and (max-width: 1330px){
+    .main-text.text-strong{
+    
+        margin: 30px 0;
+    
+    }
+}
+
+@media only screen and (max-width:830px){
+    
+    .main-text{
+        font-size: 13px;
+        width: 244px;
+    }
+    
+    .main-text.text-strong{
+        font-size: 15px;
+    }
+
+}
