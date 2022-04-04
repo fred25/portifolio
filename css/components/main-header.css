@@ -12,7 +12,11 @@
 
 @media only screen and (max-width:830px){
 
+    .main-header{
+        width: fit-content;
+    }
+
     .header-wrapper{
-        margin: 26px 24px 0 34px; 
+        margin: 26px 24px; 
     }
 }

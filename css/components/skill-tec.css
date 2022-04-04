@@ -20,3 +20,11 @@
 .skill-tec img.python{
     filter: drop-shadow(5px 5px 5px #ffd900) drop-shadow(-5px -5px 5px #3c7dff);
 }
+
+@media only screen and (max-width: 1330px){
+
+    .skill-tec img{
+        height: 34px;
+    }
+
+}

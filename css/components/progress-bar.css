@@ -33,3 +33,9 @@ box-shadow: 0 0 15px #FF9900;
     background-color: #ffe600;
     box-shadow: 0 0 15px #FFE600;
 }
+
+@media only screen and (max-width: 1330px){
+    .progress-bar{
+        width: 73px;
+    }
+}
