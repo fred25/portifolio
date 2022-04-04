@@ -5,3 +5,12 @@
     text-shadow: 0 0 40px #68FE9B;
     padding: 35px 44px 0 53px;
 }
+
+@media only screen and (max-width:830px){
+
+    .main-title{
+        font-size: 44px;
+        padding: 16px 14px 0 14px;
+    }
+
+}

@@ -30,6 +30,6 @@ box-shadow: 0 0 15px #FF9900;
 
 .progress-bar.python::-moz-progress-bar,
 .progress-bar.python::-webkit-progress-bar{
-    background-color: #FFE600;
+    background-color: #ffe600;
     box-shadow: 0 0 15px #FFE600;
 }
