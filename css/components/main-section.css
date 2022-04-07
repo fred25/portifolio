@@ -6,3 +6,7 @@
     background-image: url(../../assets/img/skills-background.png);
     background-size: cover;
 }
+
+.main-section.section-projects{
+    background-color: #200D29;
+}

@@ -11,3 +11,8 @@
     align-items: flex-start;
     width: auto;
 }
+
+.wrapper-skill.-projects{
+    padding-top: 250px;
+    padding-bottom: 90px;
+}

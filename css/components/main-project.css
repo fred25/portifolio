@@ -1,0 +1,13 @@
+.main-project{
+    border-radius: 20px;
+    margin-bottom: 15px;
+    transition: 0.3s;
+}
+
+.main-project:hover{
+    transform: scale(104%);
+}
+
+.main-project.this-website{
+    box-shadow: 0px 0px 10px #C958FE;;
+}
