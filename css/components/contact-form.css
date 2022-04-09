@@ -4,3 +4,11 @@
     align-items: flex-end;
     padding-top: 163px;
 }
+
+@media only screen and (max-width:830px){
+
+    .contact-form{
+        padding-top: 200px;
+    }
+
+}

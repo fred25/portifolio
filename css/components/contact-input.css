@@ -7,6 +7,7 @@
     border: 3px solid #FF879A;
     box-shadow: 0 0 10px #FF879A;
     margin-top: 28px;
+    width: 510px;
 }
 
 .contact-button{
@@ -27,11 +28,25 @@
     }
 
 .contact-input.-name, .contact-input.-email{
-    width: 510px;
     height: 55px;
 }
 
 .contact-input.-message{
-    width: 510px;
     height: 270px;
+}
+
+@media only screen and (max-width:830px){
+
+    .contact-input{
+        width: 285px;
+    }
+
+    .contact-input.-name, .contact-input.-email{
+        height: 40px;
+    }
+    
+    .contact-input.-message{
+        height: 265px;
+    }
+
 }
