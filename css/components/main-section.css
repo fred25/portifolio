@@ -10,3 +10,8 @@
 .main-section.section-projects{
     background-color: #200D29;
 }
+
+.main-section.-contact{
+    background-image: url(../../assets/img/contact-background.png);
+    background-size: cover;
+}

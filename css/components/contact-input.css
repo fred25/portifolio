@@ -1,0 +1,37 @@
+.contact-input{
+    background-color: rgba(255, 135, 154, 0.05);
+    font-family: 'Lekton', monospace;
+    font-size: 26px;
+    color: rgba(228, 213, 235, 0.5);
+    border-radius: 10px;
+    border: 3px solid #FF879A;
+    box-shadow: 0 0 10px #FF879A;
+    margin-top: 28px;
+}
+
+.contact-button{
+    background-color: #FF879A;
+    border-radius: 8px;
+    border: none;
+    font-family: "Lekton", monospace;
+    font-size: 17px;
+    margin-top: 17px;
+    width: 75px;
+    height: 28px;
+    transition: 0.3s;
+    }
+
+    .contact-button:hover{
+        transform: scale(103%);
+        box-shadow: 0 0 10px #FF879A;
+    }
+
+.contact-input.-name, .contact-input.-email{
+    width: 510px;
+    height: 55px;
+}
+
+.contact-input.-message{
+    width: 510px;
+    height: 270px;
+}
