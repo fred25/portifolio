@@ -1,9 +1,10 @@
 .about-article{
     display: flex;
     justify-content: space-between;
-    padding-top: 250px;
+    padding-top: 200px;
     margin-left: 16%;
     margin-right: 16%;
+    max-width: 1000px;
 }
 
 .about-article img{
