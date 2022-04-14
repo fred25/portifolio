@@ -1,8 +1,7 @@
 .animated-firefly{
     position: absolute;
-    z-index: 2;
-    width: 5px;
-    height: 5px;
+    width: 8px;
+    height: 8px;
     background-color: yellow;
     border-radius: 50%;
 
