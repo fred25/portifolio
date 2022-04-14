@@ -1,6 +1,7 @@
 .main-project{
     border-radius: 20px;
     margin-bottom: 15px;
+    margin-top: 35px;
     transition: 0.3s;
     width: 241px;
 }
@@ -18,7 +19,7 @@
 }
 
 .main-project.lorem-ipsum{
-    box-shadow: 0px 0px 10px #30153d;
+    box-shadow: 0px 0px 10px #200d29;
     filter: invert(100%);
 }
 

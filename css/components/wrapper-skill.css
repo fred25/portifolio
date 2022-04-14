@@ -16,4 +16,5 @@
     padding-top: 250px;
     padding-bottom: 90px;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
