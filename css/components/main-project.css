@@ -6,6 +6,11 @@
     width: 241px;
 }
 
+.project-figure{
+    display: flex;
+    flex-direction: column;
+}
+
 .main-project:hover{
     transform: scale(104%);
 }
@@ -27,6 +32,10 @@
 
     .main-project{
         width: 152px;
+    }
+
+    .project-figure{
+        align-items: center;
     }
 
 }
