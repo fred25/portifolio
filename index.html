@@ -198,12 +198,13 @@
 
     <section id="contact" class="main-section -contact">
         <div class="wrapper-skill">
-            <form class="contact-form">
-                <input class="contact-input -name" type="text" placeholder="Name">
-                <input class="contact-input -email" type="email" placeholder="Email">
-                <textarea class="contact-input -message" placeholder="Message"></textarea>
+            <form class="contact-form" action="https://formsubmit.co/fredericomattos25@gmail.com" method="POST">
+                <input class="contact-input -name" type="text" placeholder="Name" name="Name" required>
+                <input class="contact-input -email" type="email" placeholder="Email" name="email" required>
+                <textarea class="contact-input -message" placeholder="Message" name="text" ></textarea>
                 <input class="contact-button" type="submit" value="Send">
-        </form>
+                <input type="hidden" name="_next" value="https://fred25.github.io/portifolio/#contact">
+            </form>
        </div>
 
         <h2 class="section-title">Contact</h2>
