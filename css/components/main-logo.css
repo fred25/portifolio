@@ -1,11 +1,27 @@
 .main-logo{
-    font-family: 'Monoton', monospace;
+    font-family: 'BIZ UDPGothic', sans-serif;
     font-size: 44px;
     color: #E5D7EC;
+    animation: blink 5s infinite;
 }
 
 body{
     background-color: #000;
+}
+
+@keyframes blink {
+    0%{
+        text-shadow: 0 0 20px #fe6868;;
+    }
+
+    50%{
+        text-shadow: 0 0 20px #68FE9B;
+    }
+
+    100%{
+        text-shadow: 0 0 20px #fe6868;
+    }
+
 }
 
 .-mobile{
